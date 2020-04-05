@@ -115,3 +115,4 @@
 
 #KONTRIBUTOR
 * Masukkan Nama Kontributor Disini dengan format [nama_lengkap](LinkedIn_Page)
+* [Dewi_kumala](https://www.linkedin.com/in/dewi-kumala-94135b1a6)
